@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+.hr-theme-slash-2 {
+    display: flex;
+}
+
+.hr-line {
+    width: 100%;
+    position: relative;
+    margin: 15px;
+    border-bottom: 1px solid #000;
+}
+.hr-icon {
+    position: relative;
+    top: 3px;
+}
+
+div.image {
+    }
+
+.link:hover {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
